@@ -1,5 +1,5 @@
 # cPNN extended version
-This repository contains the code used for the experimentation shown in the paper.
+This repository contains the code for the experimentation.
 
 ## 1) Installation
 execute:
