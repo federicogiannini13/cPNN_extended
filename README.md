@@ -17,21 +17,22 @@ It contains the generated data streams.
 Each file's name has the following structure: **\<generator\>_\<configuration\>.csv**.
 
 <ins>Generators:</ins>
+* sine_rw10_mode5: Sine RW.
 * sine_rw10_mode5: Sine RW Mode.
 * weather: Weather.
 
 <ins>Configurations:</ins>
 * 1conf:
-    * S1+ S2+ S1- S2- for Sine RW Mode
+    * S1+ S2+ S1- S2- for Sine and Sine RW Mode
     * W1+ W2+ W1- W2- for Weather.
 * 2conf:
-    * S1+ S2- S1- S2+ for Sine RW Mode
+    * S1+ S2- S1- S2+ for Sine and Sine RW Mode
     * W1+ W2- W1- W2+ for Weather.
 * 3conf:
-    * S2+ S1+ S2- S1- for Sine RW Mode
+    * S2+ S1+ S2- S1- for Sine and Sine RW Mode
     * W2+ W1+ W2- W1- for Weather.
 * 4conf:
-    * S2+ S1- S2- S1+ for Sine RW Mode
+    * S2+ S1- S2- S1+ for Sine and Sine RW Mode
     * W2+ W1- W2- W1+ for Weather.
 
 #### models
