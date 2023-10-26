@@ -17,7 +17,7 @@ It contains the generated data streams.
 Each file's name has the following structure: **\<generator\>_\<configuration\>.csv**.
 
 <ins>Generators:</ins>
-* sine_rw10_mode5: Sine RW.
+* sine_rw10: Sine RW.
 * sine_rw10_mode5: Sine RW Mode.
 * weather: Weather.
 
