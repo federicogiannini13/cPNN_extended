@@ -17,8 +17,8 @@ It contains the generated data streams.
 Each file's name has the following structure: **\<generator\>_\<configuration\>.csv**.
 
 <ins>Generators:</ins>
-* sine_rw10: Sine RW.
-* sine_rw10_mode5: Sine RW Mode.
+* sine_rw10: Sine RW (SRW).
+* sine_rw10_mode5: Sine RW Mode (SRWM).
 * weather: Weather.
 
 <ins>Configurations:</ins>
@@ -48,7 +48,7 @@ It runs the prequential evaluation using the specified configurations. Change th
 
 Run it with the command `python -m evaluation.test`.
 
-The execution stores the pickle files containing the results in the folder sèpecified by the variable `PATH_PERFORMANCE`. For the details about the pickle files, see the documentation in **evaluation/prequential_evaluation.py**.
+The execution stores the pickle files containing the results in the folder specified by the variable `PATH_PERFORMANCE`. For the details about the pickle files, see the documentation in **evaluation/prequential_evaluation.py**.
 
 ## Credits
 https://github.com/AndreaCossu/ContinualLearning-SequentialProcessing
