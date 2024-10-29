@@ -1,5 +1,7 @@
 # cPNN extended version
-This repository contains the code for the experimentation.
+This repository contains the code for the experimentation shown in the paper presented at KDD Workshop on Discovering Drift Phenomena in Evolving Landscapes (DELTA 2024).
+
+Preprint version: [link](https://aiimlab.org/pdf/events/KDD_2024_Workshop_On_Discovering_Drift_Phenomena_in_Evolving_Landscape_DELTA/Addressing%20Temporal%20Dependence%20Concept%20Drifts%20and%20Forgetting%20in%20Data%20Streams.pdf)
 
 ## 1) Installation
 execute:
